@@ -1,0 +1,105 @@
+baseurl = "https://localhost" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+title = "Next World Computer & Training Institute"
+theme = "hugo-universal-theme"
+languageCode = "en-us"
+# Site language. Available translations in the theme's `/i18n` directory.
+defaultContentLanguage = "en"
+
+# number of words of summarized post content (default 70)
+summaryLength = 20
+
+# Define the number of posts per page
+paginate = 10
+
+# not pluralize title pages by default
+pluralizelisttitles = false
+
+[menu]
+
+# Main menu
+[[menu.main]]
+    name       = "Home"
+    identifier = "menu.home"
+    url        = "/"
+    weight     = 1
+
+# courses
+[[menu.main]]
+    name       = "courses"
+    identifier = "menu.courses"
+    url        = "/courses/"
+    weight     = 2
+
+[[menu.main]]
+    identifier = "contact"
+    name       = "Contact"
+    url        = "/contact/"
+    weight     = 3
+
+[[menu.main]]
+    name       = "FAQ"
+    identifier = "menu.faq"
+    url        = "/faq/"
+    weight     = 5
+
+
+
+# param table
+
+[params]
+    style = "default"
+    disabled_logo = false
+    logo_text = "Next World Computer & Training Institute"
+
+    logo = "img/banners/logo.jpg"
+    logo_small = "img/banners/logo.jpg"
+
+    dropdown_mouse_over = false
+    
+    about_us = """<p><h6>Next World Computer & Training Institute</h6> is a government-subsidized center focused on reducing unemployment by providing essential computer skills.
+    It offers practical training in using Microsoft Office and other basic IT tools, 
+    empowering individuals for entry-level opportunities in today's job market.</p>"""
+    
+    contact_url = "/contact"
+    address = """<p class="text-uppercase"><strong>Next World Computer & Training Institute</strong>
+        <br>Shek Market,
+        <br>Nazu miah hat,
+        <br>Hathazari,
+        <br>Chattogram
+        <br>
+        <strong>Bangladesh</strong>
+      </p>
+      """    
+
+# widgets
+
+[params.widgets]
+    search = false
+    categories = true
+    tags = true
+
+
+[params.features]
+    enable = true
+    cols = 3
+
+[params.see_more]
+    enable = false
+    icon = "far fa-file-alt"
+    title = "Do you want to see more?"
+    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+    link_url = "http://your-site.com/more"
+    link_text = "Check other homepages"
+
+summaryLength = 20
+
+[params.recent_posts]
+    enable = true
+    title = "Our recent courses"
+    subtitle = "Learn more about our courses below"
+    hide_summary = false
+
+[params.footer.recent_posts]
+    enable = true
+
+    
