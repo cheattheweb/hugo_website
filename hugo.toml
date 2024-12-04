@@ -29,13 +29,22 @@ pluralizelisttitles = false
     identifier = "menu.courses"
     url        = "/courses/"
     weight     = 2
+    
+# notice
+[[menu.main]]
+    name       = "notices"
+    identifier = "menu.notices"
+    url        = "/notices/"
+    weight     = 3
 
+# contacts
 [[menu.main]]
     identifier = "contact"
     name       = "Contact"
     url        = "/contact/"
-    weight     = 3
+    weight     = 4
 
+# faq
 [[menu.main]]
     name       = "FAQ"
     identifier = "menu.faq"
@@ -47,6 +56,9 @@ pluralizelisttitles = false
 # param table
 
 [params]
+
+    mainSections = ["courses", "notices"] # this one ensures theme render segments as blogs type format
+
     style = "default"
     disabled_logo = false
     logo_text = "Next World Computer & Training Institute"
@@ -70,6 +82,12 @@ pluralizelisttitles = false
         <strong>Bangladesh</strong>
       </p>
       """    
+
+# teacher panel
+[params.testimonials]
+    enable = true
+    title = "OUR TEACHERS"
+    subtitle = "Let's get familiar with our teachers"
 
 # widgets
 
