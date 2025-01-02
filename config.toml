@@ -1,4 +1,4 @@
-baseurl = "https://localhost" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+baseurl = "https://nextworldit.com" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "Next World Computer & Training Institute"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
