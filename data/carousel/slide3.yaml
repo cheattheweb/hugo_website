@@ -2,11 +2,9 @@ weight: 3
 title: "We Offer the Best Practical Training"
 description: >
   <ul class="list-style-none">
-    <li>Hands-on training with real-world tools and scenarios</li>
-    <li>Dedicated computer lab for practical practice</li>
-    <li>Guidance from experienced instructors during practice sessions</li>
-    <li>Focused on mastering essential computer skills</li>
-    <li>Preparing students for real-world job requirements</li>
+    <li>Hands-on training with real-world tools and scenarios, dedicated computer lab</li>
+    <li>Guidance from experienced instructors to master essential computer skills</li>
+    <li>Focused on preparing students for real-world job requirements</li>
   </ul>
 
 image: "img/carousel/students_practicing_2_1.jpg"

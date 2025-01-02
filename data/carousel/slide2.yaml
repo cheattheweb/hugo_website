@@ -2,9 +2,9 @@ weight: 2
 title: "we have the best teachers"
 description: >
   <ul class="list-style-none">
-    <li>Highly qualified and experienced educators</li>
-    <li>Passionate about teaching and student success</li>
-    <li>Specialized in their respective fields</li>
+    <li>Highly qualified and experienced educators, passionate about teaching</li>
+    <li>Specialized in their respective fields for student success</li>
     <li>Friendly and approachable for personalized guidance</li>
   </ul>
+
 image: "img/carousel/teacher_teaching_students.jpg"
