@@ -75,10 +75,9 @@ pluralizelisttitles = false
     
     contact_url = "/contact"
     address = """<p class="text-uppercase"><strong>Next World Computer & Training Institute</strong>
-        <br>Shek Market,
-        <br>Nazu miah hat,
-        <br>Hathazari,
-        <br>Chattogram
+        <br>Shek Market, Nazu miah hat, Hathazari, Chattogram
+        <br>
+        <br> Phone: 01973-472069, 01706-412179   
         <br>
         <strong>Bangladesh</strong>
       </p>
@@ -127,3 +126,4 @@ summaryLength = 20
     [markup.goldmark.renderer]
       unsafe = true
       tables = true
+

@@ -7,7 +7,7 @@ id = "contact"
 
 # Contact Us
 
-We are here to assist you! Whether you have questions about our courses, want to enroll, or need guidance, feel free to reach out.
+We are here to assist you. Whether you have questions about our courses, want to enroll, or need guidance, feel free to reach out.
 
 **Location:**
 Sheikh Market (opposite), 2nd Floor, Kaptai Road, Nazumia Hat, Hathazari, Chattogram.

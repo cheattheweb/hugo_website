@@ -1,10 +1,18 @@
 +++
-title = "FAQ"
+title = "about us"
 description = "Frequently asked questions"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 
-# Frequently Asked Questions (FAQ)
+---
+
+## About Us
+
+Something about nextworld CTI
+
+---
+
+## Frequently Asked Questions (FAQ)
 
 **1. What courses do you offer?**  
 We offer a variety of computer training courses, including:
