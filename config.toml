@@ -124,6 +124,8 @@ summaryLength = 20
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
+     [markup.goldmark.extensions]
+
       unsafe = true
-      tables = true
+
 
