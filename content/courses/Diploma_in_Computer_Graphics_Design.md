@@ -1,12 +1,11 @@
 +++
 banner = 'img/courses_img/graphic_design.jpg'
-title = 'Diploma in Computer Graphics Design'
+title = 'Diploma in Computer Graphics Design(D.G.D)'
 +++
 
 ---
 
-### Diploma in Computer Graphics Design (D.G.D)  
-**Duration**: 6 Months (2 Semesters)
+### **Duration**: 6 Months (2 Semesters)
 
 For those interested in creative technology, the Diploma in Computer Graphics Design (D.G.D) at NWCTI is the perfect course. Over 6 months, this program covers:
 

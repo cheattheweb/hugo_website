@@ -1,12 +1,11 @@
 +++
 banner = "img/courses_img/computer_hardwire.jpg"
-title = 'Diploma in Computer Hardware'
+title = 'Diploma in Computer Hardware(D.C.H)'
 +++
 
 ---
 
-### Diploma in Computer Hardware (D.C.H)  
-**Duration**: 6 Months (2 Semesters)
+### **Duration**: 6 Months (2 Semesters)
 
 If you have an interest in how computers work on a hardware level, the Diploma in Computer Hardware (D.C.H) course at NWCTI is for you. Over 6 months, you will learn:
 
