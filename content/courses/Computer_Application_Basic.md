@@ -5,7 +5,7 @@ title = 'Computer Application Basic'
 
 ---
 
-### **Computer Application Basic (C.A.B)**  
+### Computer Application Basic (C.A.B)  
 **Duration**: 3 Months  
 
 If you’re looking to get started with computer skills, the Computer Application Basic (C.A.B) course at Next World Computer & Training Institute (NWCTI) is your perfect entry point. Over the span of 3 months, this course covers the fundamentals, including:
