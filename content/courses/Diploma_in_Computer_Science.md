@@ -1,6 +1,5 @@
 +++
 banner = "img/courses_img/cse.jpg"
-date = '2025-01-02T20:45:45+06:00'
 title = 'Diploma in Computer Science'
 +++
 
@@ -38,7 +37,14 @@ The Diploma in Computer Science (D.C.S) course at NWCTI offers an in-depth under
 5. **Programming in C, C++, HTML** – Develop proficiency in multiple programming languages.
 6. **Network Introduction** – Dive into the basics of computer networking.
 7. **Hardware Assembly and Troubleshooting** – Gain hands-on experience in assembling and troubleshooting computer hardware.
-8. **Internet and Email** – Learn to navigate the web and utilize email for communication.
+
+-----
+
+### Intern
+
+##### 30 Days
+
+------
 
 The D.C.S course is a great fit for anyone looking to pursue a career in computer science or programming.
 

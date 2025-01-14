@@ -1,6 +1,5 @@
 +++
 banner = "img/courses_img/basic_apps.webp"
-date = '2025-01-02T19:43:52+06:00'
 title = 'Computer Application Basic'
 +++
 
@@ -20,6 +19,15 @@ If you’re looking to get started with computer skills, the Computer Applicatio
 7. **MS PowerPoint** – Create stunning presentations.
 8. **Hardware Assembly and Troubleshooting** – Learn the basics of assembling and troubleshooting computer hardware.
 9. **Internet and Email** – Master internet usage and email communication.
+
+
+------
+
+### Intern
+
+##### 15 Days
+
+------
 
 This course is ideal for anyone who wants to understand the basic workings of a computer system and improve their general computer literacy.
 
