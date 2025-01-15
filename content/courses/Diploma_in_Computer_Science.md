@@ -5,8 +5,7 @@ title = 'Diploma in Computer Science(D.C.S)'
 
 ---
 
-## Diploma in Computer Science   
-**Duration**: 6 Months (2 Semesters)
+### Duration: 6 Months (2 Semesters)
 
 The Diploma in Computer Science (D.C.S) course at NWCTI offers an in-depth understanding of computer science over 6 months, divided into 2 semesters. This comprehensive program covers:
 
